@@ -6,18 +6,18 @@ FHE Token Swap - Complete Setup Guide
 4.	Setup Frontend
 5.	Sử dụng ứng dụng
 ________________________________________
-🔧 Yêu cầu hệ thống
-•	Node.js >= 18.x
-•	npm hoặc yarn
-•	MetaMask hoặc wallet tương thích
+🔧 Yêu cầu hệ thống    
+•	Node.js >= 18.x    
+•	npm hoặc yarn    
+•	MetaMask hoặc wallet tương thích    
 •	Git
 ________________________________________
 📦 Cài đặt Dependencies
 1. Tạo project mới
 bash
 # Tạo thư mục project
-mkdir fhe-token-swap
-cd fhe-token-swap
+<br>    mkdir fhe-token-swap
+cd fhe-token-swap    <br>
 
 # Khởi tạo npm project
 npm init -y
